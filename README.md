@@ -24,8 +24,8 @@ The repos below come from the same place as the work above: I needed better tool
 
 ## Background
 
-- **Pinterest** (2024–2026) — Sr TPM, AI/ML Signals: $5M+ annual plan, ground-truth evaluation pipelines, GPT pilot, $1.3M compute reclaim
-- **Meta** (2017–2023) — Sr Program Manager, Commerce: Facebook Shops, Instagram Shopping, Live Shopping, 1M+ merchants, 8 engineering pods
+- **Pinterest** (2024–2026) — Sr Technical Program Manager, AI/ML Signals: $5M+ annual plan, ground-truth evaluation pipelines, GPT pilot, $1.3M compute reclaim
+- **Meta** (2017–2023) — Sr New Products Program Manager, Commerce: Facebook Shops, Instagram Shopping, Live Shopping, 1M+ merchants, 8 engineering pods
 - **Goldman Sachs** (2013–2017) — Technology and Human Capital: GTM for global research products, workforce planning, executive communications
 
 **Education:** B.S. Electrical Engineering, NYU Tandon School of Engineering
