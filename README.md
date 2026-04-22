@@ -15,7 +15,6 @@ The repos below come from the same place as the work above: I needed better tool
 | Repo | What it does |
 |---|---|
 | [`claude-code-production-patterns`](https://github.com/Bluepandafox/claude-code-production-patterns) | Working Claude Code reference: 3 production hooks, 18 tests, architecture enforcement, hygiene audit |
-| `ai-proof-writing` *(coming soon)* | CLI linter for AI writing patterns. Flags banned words, frequency violations, structural repetition |
 
 ---
 
